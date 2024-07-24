@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "66573153b67a46b6ec1e92f9"
+  },
+  "name": "mu",
+  "email": "mu@gmail.com",
+  "phone": {
+    "$numberLong": "9200300400"
+  },
+  "stationId": "6464e9d2c45b82216ab1e658",
+  "stationNo": 2,
+  "cardId": "43E86116",
+  "password": "$2a$10$47e2sdGcPIPLA5HYIIAeUO10tsM3MAZvl3nKCPb4slN2XoaM8hCeK",
+  "roles": [
+    {
+      "$oid": "66570896a8aca136279f604c"
+    }
+  ],
+  "permits": [
+    {
+      "$oid": "66570896a8aca136279f604e"
+    },
+    {
+      "$oid": "66570896a8aca136279f604f"
+    },
+    {
+      "$oid": "66570896a8aca136279f6050"
+    },
+    {
+      "$oid": "66570896a8aca136279f6051"
+    }
+  ],
+  "positon": null,
+  "address": null,
+  "nrcNo": "blblbl",
+  "status": "enable",
+  "createdAt": {
+    "$date": "2024-05-29T13:44:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T04:57:43.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667144dac07ac80ad41a4824"
+  },
+  "name": "m1",
+  "email": "m1@gmail.com",
+  "phone": {
+    "$numberLong": "9200300401"
+  },
+  "stationId": "6464e9d2c45b82216ab1e65a",
+  "stationNo": 2,
+  "cardId": "B3786035",
+  "password": "$2a$10$47e2sdGcPIPLA5HYIIAeUO10tsM3MAZvl3nKCPb4slN2XoaM8hCeK",
+  "roles": [
+    {
+      "$oid": "66570896a8aca136279f604c"
+    }
+  ],
+  "permits": [
+    {
+      "$oid": "66570896a8aca136279f604e"
+    },
+    {
+      "$oid": "66570896a8aca136279f604f"
+    },
+    {
+      "$oid": "66570896a8aca136279f6050"
+    },
+    {
+      "$oid": "66570896a8aca136279f6051"
+    }
+  ],
+  "positon": null,
+  "address": null,
+  "nrcNo": "blblbl",
+  "status": "enable",
+  "createdAt": {
+    "$date": "2024-05-29T13:44:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T04:57:43.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66714b52c07ac80ad41a4825"
+  },
+  "name": "C1",
+  "email": "c1@gmail.com",
+  "phone": {
+    "$numberLong": "9200300407"
+  },
+  "stationId": "6464e9d2c45b82216ab1e658",
+  "stationNo": 2,
+  "cardId": "43855916",
+  "password": "$2a$10$47e2sdGcPIPLA5HYIIAeUO10tsM3MAZvl3nKCPb4slN2XoaM8hCeK",
+  "roles": [
+    {
+      "$oid": "66570896a8aca136279f604c"
+    }
+  ],
+  "permits": [
+    {
+      "$oid": "66570896a8aca136279f604e"
+    },
+    {
+      "$oid": "66570896a8aca136279f604f"
+    },
+    {
+      "$oid": "66570896a8aca136279f6050"
+    },
+    {
+      "$oid": "66570896a8aca136279f6051"
+    }
+  ],
+  "positon": null,
+  "address": null,
+  "nrcNo": "blblbl",
+  "status": "enable",
+  "createdAt": {
+    "$date": "2024-05-29T13:44:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T04:57:43.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667647dab77e978324cbf45f"
+  },
+  "name": "C2",
+  "email": "c2@gmail.com",
+  "phone": {
+    "$numberLong": "9200300409"
+  },
+  "stationId": "6464e9d2c45b82216ab1e658",
+  "stationNo": 2,
+  "cardId": "E3B8C80C",
+  "password": "$2a$10$47e2sdGcPIPLA5HYIIAeUO10tsM3MAZvl3nKCPb4slN2XoaM8hCeK",
+  "roles": [
+    {
+      "$oid": "66570896a8aca136279f604c"
+    }
+  ],
+  "permits": [
+    {
+      "$oid": "66570896a8aca136279f604e"
+    },
+    {
+      "$oid": "66570896a8aca136279f604f"
+    },
+    {
+      "$oid": "66570896a8aca136279f6050"
+    },
+    {
+      "$oid": "66570896a8aca136279f6051"
+    }
+  ],
+  "positon": null,
+  "address": null,
+  "nrcNo": "blblbl",
+  "status": "enable",
+  "createdAt": {
+    "$date": "2024-05-29T13:44:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T04:57:43.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667648dbb77e978324cbf460"
+  },
+  "name": "C3",
+  "email": "c3@gmail.com",
+  "phone": {
+    "$numberLong": "9200300489"
+  },
+  "stationId": "6464e9d2c45b82216ab1e658",
+  "stationNo": 2,
+  "cardId": "23D97216",
+  "password": "$2a$10$47e2sdGcPIPLA5HYIIAeUO10tsM3MAZvl3nKCPb4slN2XoaM8hCeK",
+  "roles": [
+    {
+      "$oid": "66570896a8aca136279f604c"
+    }
+  ],
+  "permits": [
+    {
+      "$oid": "66570896a8aca136279f604e"
+    },
+    {
+      "$oid": "66570896a8aca136279f604f"
+    },
+    {
+      "$oid": "66570896a8aca136279f6050"
+    },
+    {
+      "$oid": "66570896a8aca136279f6051"
+    }
+  ],
+  "positon": null,
+  "address": null,
+  "nrcNo": "blblbl",
+  "status": "enable",
+  "createdAt": {
+    "$date": "2024-05-29T13:44:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T04:57:43.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688a2cc429f1b9a310af7d3"
+  },
+  "name": "manager",
+  "email": "kyawsantatkon030@gmail.com",
+  "phone": {
+    "$numberLong": "9422626030"
+  },
+  "stationId": "6464e9d2c45b82216ab1e65a",
+  "stationNo": 2,
+  "cardId": "B3786036",
+  "password": "$2a$10$47e2sdGcPIPLA5HYIIAeUO10tsM3MAZvl3nKCPb4slN2XoaM8hCeK",
+  "roles": [
+    {
+      "$oid": "66570896a8aca136279f604c"
+    }
+  ],
+  "permits": [
+    {
+      "$oid": "66570896a8aca136279f604e"
+    },
+    {
+      "$oid": "66570896a8aca136279f604f"
+    },
+    {
+      "$oid": "66570896a8aca136279f6050"
+    },
+    {
+      "$oid": "66570896a8aca136279f6051"
+    }
+  ],
+  "positon": null,
+  "address": null,
+  "nrcNo": "blblbl",
+  "status": "enable",
+  "createdAt": {
+    "$date": "2024-05-29T13:44:51.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T04:57:43.191Z"
+  },
+  "__v": 0
+}]
