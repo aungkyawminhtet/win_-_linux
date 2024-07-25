@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "65ee88694e58acf1e4257e28"
+    },
+    "fuelType": "001-Octane Ron(92)",
+    "dateOfDay": "2024-03-11",
+    "openingBalance": 2000,
+    "receive": 0,
+    "issue": 1.74,
+    "adjust": 0,
+    "balance": 2001.74,
+    "todayTank": 1000,
+    "yesterdayTank": 2000,
+    "tankIssue": 1000,
+    "todayGL": -998.26,
+    "totalGL": -1001.74,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ee88714e58acf1e4257e2a"
+    },
+    "fuelType": "002-Octane Ron(95)",
+    "dateOfDay": "2024-03-11",
+    "openingBalance": 2000,
+    "receive": 0,
+    "issue": 1.04,
+    "adjust": 0,
+    "balance": 2001.04,
+    "todayTank": 0,
+    "yesterdayTank": 2000,
+    "tankIssue": 0,
+    "todayGL": 1.04,
+    "totalGL": -2001.04,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ee88794e58acf1e4257e2c"
+    },
+    "fuelType": "004-Diesel",
+    "dateOfDay": "2024-03-11",
+    "openingBalance": 2000,
+    "receive": 0,
+    "issue": 2.06,
+    "adjust": 0,
+    "balance": 2000.02,
+    "todayTank": 0,
+    "yesterdayTank": 2000,
+    "tankIssue": 0,
+    "todayGL": 2.06,
+    "totalGL": -2000.02,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ee89234e58acf1e4257e2e"
+    },
+    "fuelType": "005-Premium Diesel",
+    "dateOfDay": "2024-03-11",
+    "openingBalance": 2000,
+    "receive": 5000,
+    "issue": 0,
+    "adjust": 0,
+    "balance": 5000,
+    "todayTank": 0,
+    "yesterdayTank": 2000,
+    "tankIssue": 0,
+    "todayGL": 0,
+    "totalGL": -5000,
+    "__v": 0
+  }
+]
