@@ -1,6 +1,8 @@
 
 /*
-this version is prepar master rfid card check function
+
+this version is Local EEprom for ESP module production
+Aung Kyaw Min Htet
 
 */
 
